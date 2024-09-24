@@ -16,13 +16,13 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100087212564100"
+        "100086689301511"
     ],
     "ABSOLUTES": [
         ""
     ],
-    "NAME": "chilli bot",
-    "PREFIX": "!",
+    "NAME": "vincent ai beta",
+    "PREFIX": "/",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
